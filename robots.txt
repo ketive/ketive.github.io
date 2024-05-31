@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ketive.github.io/a/sitemap.html
+Sitemap: https://ketive.github.io/b/sitemap.html
+Sitemap: https://ketive.github.io/c/sitemap.html
+Sitemap: https://ketive.github.io/d/sitemap.html
